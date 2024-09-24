@@ -24,17 +24,9 @@
 
 
 // Wifi école
-//#define WIFI_SSID "Wifi-Projet-Diplomes"
-//#define WIFI_MOT_DE_PASSE "DiplomeSLO2"
-//#define SERVEUR_ADDRESSE_HTTP "http://192.168.1.102:8080/MesureTH/api.php"
-
-// Wifi perso
-#define WIFI_SSID "SFR_7CD8"
-#define WIFI_MOT_DE_PASSE "26dkjf2mjs26vyyk6pwg"
-#define SERVEUR_ADDRESSE_HTTP "http://192.168.1.41:9090/MesureTH/api.php"
-
-// Wifi test
-//#define ADDRESSE_HTTP "https://www.howsmyssl.com/a/check"
+#define WIFI_SSID "Wifi-Projet-Diplomes"
+#define WIFI_MOT_DE_PASSE "DiplomeSLO2"
+#define SERVEUR_ADDRESSE_HTTP "http://192.168.1.102:8080/MesureTH/api.php"
 
 
 WiFiMulti wifiMulti;
