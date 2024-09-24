@@ -1,0 +1,10 @@
+nom du projet : MesureTH 
+no de projet  : 2409
+date          : 24 septembre 2024 
+
+explicatif du projet:
+---------------------
+
+Le but du projet est de mettre en place un système mesurant la température et l’humidité dans un
+réfrigérateur, avec un affichage e-paper placé à l’avant du PCB pour avoir toutes les informations
+visibles. Ce projet me permet de travailler avec des communications I2C, SPI et UART

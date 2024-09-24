@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2409_MesureTH_RefrigerateurCongelateur_6C_2L.PcbDoc   28.08.2024  15:18:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2409_MesureTH_RefrigerateurCongelateur_6C_2L.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             46        PTH        201.38mm (7.93inch)
+T2      0.35mm (14mil)                                            Round             30        PTH        207.46mm (8.17inch)
+T3      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T4      1.3mm (51mil)                                             Round             6         PTH        67.35mm (2.65inch)
+T5      0.9mm (35mil)                                             Round             3         NPTH       7.21mm (0.28inch)
+T6      2.375mm (94mil)                                           Round             4         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              93
+
+Total Processing Time (hh:mm:ss) : 00:00:00
